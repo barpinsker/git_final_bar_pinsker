@@ -1,1 +1,1 @@
-this is file 1.txt
+thisi new txt in file 1.txt
